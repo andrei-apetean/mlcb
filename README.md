@@ -5,7 +5,7 @@ Software is unfinished, use at your own risk
 Example: 
 ``` C
 // in 'build.c' located at the root of your workspace
-
+#define MLCB_IMPLEMENTATION
 #include "mlcb.h"
 #include "stdio.h"
 
